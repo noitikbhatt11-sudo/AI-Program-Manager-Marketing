@@ -1,0 +1,87 @@
+{
+  "duration": "00:53:31",
+  "teacher_label": "Child",
+  "word_share": {
+    "Mridula Bose": 0.492,
+    "Child": 0.508
+  },
+  "silence_gaps_ge_45s": [
+    {
+      "from_": "00:19:39",
+      "to": "00:20:29",
+      "seconds": 50
+    },
+    {
+      "from_": "00:23:56",
+      "to": "00:25:10",
+      "seconds": 74
+    },
+    {
+      "from_": "00:27:01",
+      "to": "00:27:56",
+      "seconds": 54
+    },
+    {
+      "from_": "00:33:44",
+      "to": "00:34:38",
+      "seconds": 54
+    },
+    {
+      "from_": "00:37:08",
+      "to": "00:37:55",
+      "seconds": 47
+    },
+    {
+      "from_": "00:38:50",
+      "to": "00:39:38",
+      "seconds": 48
+    },
+    {
+      "from_": "00:39:55",
+      "to": "00:40:50",
+      "seconds": 55
+    },
+    {
+      "from_": "00:42:40",
+      "to": "00:43:33",
+      "seconds": 53
+    },
+    {
+      "from_": "00:45:14",
+      "to": "00:46:17",
+      "seconds": 62
+    },
+    {
+      "from_": "00:46:17",
+      "to": "00:47:06",
+      "seconds": 49
+    },
+    {
+      "from_": "00:47:07",
+      "to": "00:48:57",
+      "seconds": 109
+    },
+    {
+      "from_": "00:49:54",
+      "to": "00:52:44",
+      "seconds": 170
+    }
+  ],
+  "total_silence_min": 13.8,
+  "long_teacher_monologues": [],
+  "pii_hits": [
+    {
+      "at": "00:07:44",
+      "type": "family_cue"
+    },
+    {
+      "at": "00:23:13",
+      "type": "family_cue"
+    },
+    {
+      "at": "00:23:47",
+      "type": "money"
+    }
+  ],
+  "negative_tone_turns": []
+}

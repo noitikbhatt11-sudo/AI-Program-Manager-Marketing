@@ -1,0 +1,20 @@
+{
+  "class_id": "Maths_2125736982",
+  "status": "NO_MOMENTS",
+  "no_moment_reason": "Teacher monologue (96% of words); child voice absent; sustained negative teacher tone",
+  "quality_alert": {
+    "raised": true,
+    "reason": "Repeated shaming of the child and references to parents; escalate to Academic Quality",
+    "timestamps": [
+      "00:25:17",
+      "00:35:09",
+      "00:37:40",
+      "00:38:22",
+      "00:39:44",
+      "00:45:43",
+      "00:47:54"
+    ]
+  },
+  "moments": [],
+  "rejected_near_misses": []
+}

@@ -1,0 +1,69 @@
+{
+  "duration": "00:49:20",
+  "teacher_label": "Naazish Khanam",
+  "word_share": {
+    "Manjare": 0.039,
+    "Naazish Khanam": 0.961
+  },
+  "silence_gaps_ge_45s": [
+    {
+      "from_": "00:06:04",
+      "to": "00:07:31",
+      "seconds": 87
+    },
+    {
+      "from_": "00:11:37",
+      "to": "00:12:27",
+      "seconds": 51
+    },
+    {
+      "from_": "00:19:05",
+      "to": "00:19:54",
+      "seconds": 49
+    },
+    {
+      "from_": "00:39:54",
+      "to": "00:40:50",
+      "seconds": 56
+    },
+    {
+      "from_": "00:40:56",
+      "to": "00:42:32",
+      "seconds": 96
+    },
+    {
+      "from_": "00:42:39",
+      "to": "00:43:41",
+      "seconds": 61
+    }
+  ],
+  "total_silence_min": 6.7,
+  "long_teacher_monologues": [
+    {
+      "at": "00:02:18",
+      "seconds": 67,
+      "words": 182
+    },
+    {
+      "at": "00:03:27",
+      "seconds": 109,
+      "words": 266
+    },
+    {
+      "at": "00:15:22",
+      "seconds": 202,
+      "words": 511
+    }
+  ],
+  "pii_hits": [],
+  "negative_tone_turns": [
+    "00:25:17",
+    "00:35:09",
+    "00:37:40",
+    "00:37:46",
+    "00:38:14",
+    "00:38:22",
+    "00:39:44",
+    "00:47:54"
+  ]
+}

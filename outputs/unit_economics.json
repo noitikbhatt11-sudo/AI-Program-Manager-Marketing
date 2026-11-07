@@ -1,0 +1,95 @@
+{
+  "assumptions": {
+    "classes": 500,
+    "rate": 450,
+    "review_min_manual": 30,
+    "usable_per_class": 0.18,
+    "edit_min_manual": 45,
+    "edit_min_brief": 25,
+    "candidates": 150,
+    "precision": 0.6,
+    "qa_min": 3.5,
+    "audit_share": 0.05,
+    "audit_min": 10,
+    "ops_hours": 4,
+    "llm_inr_per_class": 5,
+    "video_inr_per_candidate": 10,
+    "tools_inr_week": 2000
+  },
+  "base": {
+    "manual_clips": 90.0,
+    "manual_review_h": 250.0,
+    "manual_edit_h": 67.5,
+    "manual_total_h": 317.5,
+    "manual_cost": 142875,
+    "manual_cost_per_clip": 1588,
+    "ai_clips": 90.0,
+    "ai_sourcing_h": 16.9,
+    "ai_edit_h": 37.5,
+    "ai_total_h": 54.4,
+    "ai_tool_cost": 6000,
+    "ai_cost": 30488,
+    "ai_cost_per_clip": 339,
+    "sourcing_speedup": 14.8,
+    "end_to_end_speedup": 5.8,
+    "hours_saved_week": 263.1,
+    "cost_saved_week": 112388,
+    "cost_saved_year": 5844150
+  },
+  "sensitivity": [
+    {
+      "precision": 0.4,
+      "candidates": 150,
+      "usable_clips": 60.0,
+      "ai_hours": 41.9,
+      "hours_per_clip": 0.7,
+      "cost_per_clip_inr": 414,
+      "vs_manual_hours_per_clip_x": 5.1
+    },
+    {
+      "precision": 0.4,
+      "candidates": 250,
+      "usable_clips": 100.0,
+      "ai_hours": 64.4,
+      "hours_per_clip": 0.64,
+      "cost_per_clip_inr": 360,
+      "vs_manual_hours_per_clip_x": 5.5
+    },
+    {
+      "precision": 0.6,
+      "candidates": 150,
+      "usable_clips": 90.0,
+      "ai_hours": 54.4,
+      "hours_per_clip": 0.6,
+      "cost_per_clip_inr": 339,
+      "vs_manual_hours_per_clip_x": 5.8
+    },
+    {
+      "precision": 0.6,
+      "candidates": 250,
+      "usable_clips": 150.0,
+      "ai_hours": 85.2,
+      "hours_per_clip": 0.57,
+      "cost_per_clip_inr": 302,
+      "vs_manual_hours_per_clip_x": 6.2
+    },
+    {
+      "precision": 0.75,
+      "candidates": 150,
+      "usable_clips": 112.5,
+      "ai_hours": 63.8,
+      "hours_per_clip": 0.57,
+      "cost_per_clip_inr": 308,
+      "vs_manual_hours_per_clip_x": 6.2
+    },
+    {
+      "precision": 0.75,
+      "candidates": 250,
+      "usable_clips": 187.5,
+      "ai_hours": 100.9,
+      "hours_per_clip": 0.54,
+      "cost_per_clip_inr": 279,
+      "vs_manual_hours_per_clip_x": 6.6
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "duration": "00:52:37",
+  "teacher_label": "Mary James Mekkattel",
+  "word_share": {
+    "Mary James Mekkattel": 0.889,
+    "Devnanda Arun": 0.111
+  },
+  "silence_gaps_ge_45s": [],
+  "total_silence_min": 0.0,
+  "long_teacher_monologues": [
+    {
+      "at": "00:09:23",
+      "seconds": 128,
+      "words": 287
+    }
+  ],
+  "pii_hits": [
+    {
+      "at": "00:36:41",
+      "type": "scheduling_billing"
+    },
+    {
+      "at": "00:37:30",
+      "type": "scheduling_billing"
+    },
+    {
+      "at": "00:41:03",
+      "type": "scheduling_billing"
+    },
+    {
+      "at": "00:41:19",
+      "type": "family_cue"
+    }
+  ],
+  "negative_tone_turns": []
+}
